@@ -1,0 +1,54 @@
+.body{
+    background-image: linear-gradient(to right top , blue, brown , white , grey , pink);
+}
+
+
+.table{
+    margin-left: 530px;
+    margin-top: 120px;
+    width: 300px;
+    height: 20px;
+    font-size: 15px;
+    font-style: italic; 
+    border: 3px solid royalblue;
+    box-shadow: 2px 5px 15px royalblue;
+    
+}
+
+.end{
+    margin-left: 530px;
+    margin-top: 10px;
+    width: 300px;
+    height: 20px;
+    font-size: 15px;
+    font-style: italic; 
+    border: 3px solid rosybrown;
+    box-shadow: 2px 10px 15px rosybrown;
+    
+    
+}
+
+.punch{
+    cursor: pointer;
+    margin-left: 590px;
+    margin-top: 20px;
+    height: 40px;
+    width: 200px;
+    font-style: italic; 
+    font-size: 15px;
+    background-color: pink;
+}
+
+.result{
+    height: 350px;
+    width: 300px;
+    margin-left: 530px;
+    margin-top: 30px;
+    border: 3px solid white;
+    box-shadow: 2px 5px 15px white;
+    overflow: scroll;
+    padding: 10px;
+    font-size: 20px;
+    font-family: monospace;
+    background-image: linear-gradient(to left top ,pink white);
+}

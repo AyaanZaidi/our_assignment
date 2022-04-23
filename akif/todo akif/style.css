@@ -1,0 +1,109 @@
+.browser{
+    background-image: linear-gradient(to right bottom  , #03ddffcb 0% , #ff0381b6 90% , blue) ;
+    background-repeat: repeat;
+    height: 60px; 
+}
+
+
+.heading{
+    margin-left: 500px;
+    font-size: 50px;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 5px 10px;
+}
+
+
+.todoInput{
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 20px;
+    width: 350px;
+    font-size: 20px;
+    border-radius: 20px;
+    font-family: monospace;
+    padding: 5px;
+    background-color: #03ddffcb;
+    color: white;    
+}
+
+.renderArea{
+    height: 400px;
+    width: 800px;
+    margin-left: 279px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 3px 5px 15px;
+    padding: 15px;
+    overflow: scroll;
+    border-radius: 25px;
+}
+
+
+.inputDiv{
+    border: 1px solid black;
+    height: 60px;
+    width: 800px;
+    margin-left: 279px;
+    box-shadow: 3px 5px 15px;
+    border-radius: 25px;
+}
+.editBtn{
+    margin-left: 400px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;    
+    font-family: monospace;    
+    background-color: #03ddffcb;
+    color: white;
+
+}
+.delBtn{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: monospace;    
+    background-color: #03ddffcb;
+    color: white;
+
+}
+.delAllBtn{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #ff0381b6;
+    color: white;
+
+}
+.submitBtn{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #ff0381b6;
+    color: white;
+}
+.editInput{
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: #03ddffcb;
+    color: white;
+    
+}
+.update{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #ff0381b6;
+    color: white;
+
+}
