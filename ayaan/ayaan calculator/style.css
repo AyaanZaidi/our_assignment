@@ -1,0 +1,50 @@
+div{
+    text-align: center;
+    margin-top: 100px;
+    border: 3px solid black;
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+    background-color: gray;
+    border-radius: 20px 0px 20px 0px;
+}
+.btn{
+    font-size: 40px;
+    height: 50px;
+    width: 90px;
+    margin: 4px;
+    background-color: gray;
+    border-radius: 15px;
+}
+
+.btn:hover{
+    background-color: white;
+}
+.cancel{
+    height: 50px;
+    width: 395px;
+    font-size: 30px;
+    color: aliceblue;
+    margin: 8px;
+    background-image: linear-gradient(to left top , black , #7689);
+}
+input{
+    width: 385px;
+    height: 60px;
+    font-size: 25px;
+}
+
+.equal2{
+    font-size: 40px;
+    height: 50px;
+    width: 90px;
+    margin: 4px;
+    background-color: gray;
+    border-radius: 15px;
+    
+}
+
+.equal2:hover{
+    background-color: black;
+    color: white;
+}

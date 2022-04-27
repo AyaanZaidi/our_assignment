@@ -172,3 +172,13 @@ background-color: rgb(255, 192, 203);
 
 }
 
+.calculator{
+    background-color: yellow;
+    border-radius: 30px;
+    height: 35px;
+    width: 150px;
+    font-size: 25px;
+    color: blue;
+    border: none;
+}
+

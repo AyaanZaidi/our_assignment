@@ -172,3 +172,8 @@ background-color: rgb(255, 192, 203);
 
 }
 
+.projectbtn{
+    height: 30px;
+    width: 100px;
+    background-color: plum;
+}

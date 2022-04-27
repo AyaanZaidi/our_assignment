@@ -172,3 +172,11 @@ background-color: rgb(255, 192, 203);
 
 } */
 
+.calculator{
+    height: 30px;
+    width: 150px;
+    background-color: royalblue;
+    font-size: 25px;
+    border-radius: 20px;
+}
+

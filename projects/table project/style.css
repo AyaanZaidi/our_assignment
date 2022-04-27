@@ -1,0 +1,19 @@
+.calculateBtn {
+    height: 30px;
+    width: 100px;
+    background-color: rgb(241, 97, 13);
+    margin-top: 30px;
+}
+
+.heading {
+    font-size: 40px;
+    color: orange;
+    font-style: italic;
+}
+
+.table {
+    height: 200px;
+    width: 400px;
+    font-size: 20px;
+    margin-top: 30px;
+}

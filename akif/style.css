@@ -172,3 +172,11 @@ background-color: rgb(255, 192, 203);
 
 }
 
+.calbtn{
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 25px;
+    background-color: grey;
+    border: none;
+}
