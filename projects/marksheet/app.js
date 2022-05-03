@@ -31,7 +31,7 @@ const calculate = () => {
    } else if (per >= 40) {
       document.getElementById("grade").textContent = "E";
    } else {
-      document.getElementById("grade").textContent = "F";
+      document.getElementById("grade").textContent = "Fail";
 
    }
 }
